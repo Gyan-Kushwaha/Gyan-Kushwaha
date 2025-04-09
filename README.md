@@ -1,5 +1,5 @@
 # 💫 Hi 👋 I'm Gyan Kushwaha:
-👨‍💻 Full-Stack Developer | Competitive Programmer | Tech Explorer<br><br>Hello there! I'm Gyan Kushwaha, a passionate developer who thrives on building innovative solutions and solving complex problems. My expertise spans Full-Stack Development (React, Node.js, etc.) and Competitive Programming (C++). Constantly learning, always coding!<br><br>🚀 What I Do Best:<br><br>-> Crafting scalable web apps with clean, efficient code.<br><br>-> Sharpening my skills in algorithms & data structures.<br><br>-> Exploring new tech stacks to stay ahead of the curve.
+👨‍💻 Competitive Programmer | Full-Stack Developer | Tech Explorer<br><br>Hello there! I'm Gyan Kushwaha, a passionate developer who thrives on building innovative solutions and solving complex problems. My expertise spans Full-Stack Development (React, Node.js, etc.) and Competitive Programming (C++). Constantly learning, always coding!<br><br>🚀 What I Do Best:<br><br>-> Crafting scalable web apps with clean, efficient code.<br><br>-> Sharpening my skills in algorithms & data structures.<br><br>-> Exploring new tech stacks to stay ahead of the curve.
 
 
 ## 🌐 Socials:
